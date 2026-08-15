@@ -27,7 +27,7 @@ User Question
       ↓
 Text Preprocessing
       ↓
-TF-IDF Vectorization
+TF IDF Vectorization
       ↓
 Cosine Similarity
       ↓
