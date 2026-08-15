@@ -1,6 +1,6 @@
 # 🏫 IIM Lucknow FAQ Chatbot
 
-A simple NLP-based chatbot that answers frequently asked questions about **IIM Lucknow**.
+A simple NLP based chatbot that answers frequently asked questions about **IIM Lucknow**.
 
 ## ✨ Features
 
